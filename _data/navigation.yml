@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "简介"
+    url: /cv/
+
+  - title: "中文"
+    url: /chinese/
