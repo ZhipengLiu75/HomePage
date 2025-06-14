@@ -1,23 +1,10 @@
 ---
-title: "ARA-Net: An Attention-Aware Retinal Atrophy Segmentation Network Coping With Fundus Images (JCR-Q2, Third author)"
-collection: publications
-permalink: /publication/2023-04-27-ARA-Net An Attention-Aware Retinal Atrophy Segmentation Network Coping With Fundus Image
-excerpt: 'In this paper, An attention-aware retinal atrophy segmentation network (ARA-Net) is proposed to segment retinal atrophy areas from the 2D fundus image.'
-date: 2023-04-27
-venue: 'Frontiers in Neuroscience'
-paperurl: 'https://doi.org/10.3389/fnins.2023.1174937'
-citation: 'Chen L, Zhou YY, Gao SY, Li MY, Tan H, Wan ZJ. ARA-net: an attention-aware retinal atrophy segmentation network coping with fundus images. Frontiers in Neuroscience, 2023, 17: 1174937.'
+title: "A dynamic hypergraph attention network: Capturing market-wide spatiotemporal dependencies for stock selection"
+venue: 'Applied Soft Computing'
+paperurl: 'https://doi.org/10.1016/j.asoc.2024.112524'
 ---
 
 ## Abstract
-**Background**: Accurately detecting and segmenting areas of retinal atrophy are paramount for early medical intervention in pathological myopia (PM). However, segmenting retinal atrophic areas based on a two-dimensional (2D) fundus image poses several challenges, such as blurred boundaries, irregular shapes, and size variation. To overcome these challenges, we have proposed an attention-aware retinal atrophy segmentation network (ARA-Net) to segment retinal atrophy areas from the 2D fundus image.
-
-**Methods**: In particular, the ARA-Net adopts a similar strategy as UNet to perform the area segmentation. Skip self-attention connection (SSA) block, comprising a shortcut and a parallel polarized self-attention (PPSA) block, has been proposed to deal with the challenges of blurred boundaries and irregular shapes of the retinal atrophic region. Further, we have proposed a multi-scale feature flow (MSFF) to challenge the size variation. We have added the flow between the SSA connection blocks, allowing for capturing considerable semantic information to detect retinal atrophy in various area sizes.
-
-**Results**: The proposed method has been validated on the Pathological Myopia (PALM) dataset. Experimental results demonstrate that our method yields a high dice coefficient (DICE) of 84.26%, Jaccard index (JAC) of 72.80%, and F1-score of 84.57%, which outperforms other methods significantly.
-
-**Conclusion**: Our results have demonstrated that ARA-Net is an effective and efficient approach for retinal atrophic area segmentation in PM.
-
+As more companies choose to go public to raise additional funds, investors are confronted with the challenge of choosing high-quality stocks from a multitude of options to generate returns on investment. In recent years, various deep learning models have been utilized to explore spatiotemporal dependencies through the analysis of historical price indicators of individual stocks and related stocks for stock selection. However, despite advancements in these models, they neglect the dynamic influence of global market-wide information on spatiotemporal dependencies of stocks. Focusing solely on stock-specific dependencies limits their ability to learn comprehensive spatiotemporal representations. To address this limitation, we propose a novel market-wide dynamic hypergraph attention network (MDHAN) for stock selection. The key of MDHAN is introducing an attention-based market-impacted GRU (att-MGRU) and an attention-based market-impacted dynamic hypergraph neural network (att-MHGNN). Specifically, The att-MGRU is a variant of GRU, which employs a fusion gate to capture daily market-wide temporal influences on each stock and a temporal attention mechanism to discern the contributions of historical influences across different trading days. The att-MHGNN first constructs a dynamic market-impacted hypergraph to model the market's influence on stock relationships, which is then fed into an attention-based hypergraph neural network to extract the spatial dependencies influenced by the market. By conducting experiments on four real world datasets from China and the US, covering a span of four years, we demonstrate that MDHAN significantly outperforms state-of-the-art methods.
 ## Key words
-
-retinal atrophy, segmentation, self-attention, multi-scale, 2D fundus images
+Stock selection， Hypergraph neural network, Time series analysis, Portfolio management

@@ -7,17 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I 222 23 a senior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at [School of Information Engineering](http://ie.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). I will go to [the Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/) to pursue [Master of Philosophy](https://vptlo.hkust-gz.edu.cn/rbm/) in September 2025. I am looking for research internship and Ph.D opportunities now.
-
-My research interests lie in generative artificial intelligence algorithms and their applications in various practical scenarios, such as computational imaging and intelligent medical imaging.
-
-I also focus on AI for science, hoping to make the development of artificial intelligence more in line with physical principles and improve its reliability and work efficiency by better understanding brain science, neuroscience, and life science.
-
-I was honored to be advised by [Professor Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/) at [LIVE - Laboratory of Imaging and Vision Expression](https://www.labxing.com/lab/1018/home) starting from October 2022, where my focus on solving the problem of reconstruction quality being limited by the field of hologram in digital holography.
-
-[Click here](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect) to read about my personal growth and life story.
-
-Let's be passionate!
+I am currently a third-year Ph.D. student at the College of Software, Northeastern University, China. My research interests include time series analysis, graph neural networks, and their applications in artificial intelligence.
 
 # NEWS
 ## Won the Baosteel Scholarship Special Prize (only 15 winners nationwide), November, 2024
