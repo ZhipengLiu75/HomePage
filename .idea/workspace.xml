@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02d6d0a8-895a-4bde-9fbd-92e2de2e11ab" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/HomePage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HomePage.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2023-04-27-ARA-Net An Attention-Aware Retinal Atrophy Segmentation Network Coping With Fundus Images.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2023-04-27-ARA-Net An Attention-Aware Retinal Atrophy Segmentation Network Coping With Fundus Images.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2024-01-29-Imaging through scattering media via generative diffusion model.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2024-01-29-Imaging through scattering media via generative diffusion model.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2024-04-18-HoloDiffusion Sparse Digital Holographic Reconstruction via Diffusion Modeling.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2024-05-17-paper-title-number-4.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +52,7 @@
       <workItem from="1748501688628" duration="985000" />
       <workItem from="1748502715773" duration="10000" />
       <workItem from="1749901155434" duration="1449000" />
+      <workItem from="1749902824147" duration="1227000" />
     </task>
     <servers />
   </component>
