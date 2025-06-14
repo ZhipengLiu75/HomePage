@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02d6d0a8-895a-4bde-9fbd-92e2de2e11ab" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/publications.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/talks.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/talks.tsv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +56,7 @@
       <workItem from="1748502715773" duration="10000" />
       <workItem from="1749901155434" duration="1449000" />
       <workItem from="1749902824147" duration="1227000" />
+      <workItem from="1749904295286" duration="1332000" />
     </task>
     <servers />
   </component>
