@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhipeng Liu (刘志鹏) " # "Your name / Site Title"
+title                    : "Gao, Songyang(Phebe, 高颂扬) " # "Your name / Site Title"
 title_separator          : "-"
 name                     : &name "Songyang Gao（高颂扬）" # "Your name"
 description              : &description "personal description"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "pro.jpg"
   name             : "Songyang Gao" # "Your Sidebar Name"
-  pronouns         : # example: "she/her"
+  pronouns         : # example: "she/her"  
   bio              : "Senior@NCU AI | Mphil@HKUST(GZ) (Wechat: rxsy2003)"
   location         : "Jiangxi, China"
   employer         : "Nanchang University"
   uri              : # URL
-  email            : "gaosongyang@email.ncu.edu.cn"
+  email            : "gaosongyang@email.ncu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,8 +44,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "songyang0603"
-  kaggle           : # Username
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
