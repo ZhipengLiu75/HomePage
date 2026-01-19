@@ -10,7 +10,9 @@ redirect_from:
 I am currently a third-year Ph.D. student at the College of Software, Northeastern University, China, co-supervised by [Prof. Bin Zhang](http://faculty.neu.edu.cn/zhangbin12/) and [Assoc. Prof. Peibo Duan](http://faculty.neu.edu.cn/sakuragiduan/zh_CN/index.htm). My research interests include time series analysis, graph neural networks, and their applications in artificial intelligence.
 
 
-### Publications
+## Publications
+
+### 📝 First-author Publications
 
 [1] **Zhipeng Liu**, Peibo Duan, Xuan Tang, Haodong Jing, Mingyang Geng, Yongsheng Huang, Jialu Xu, Bin Zhang and Binwu Wang. We Need a More Robust Classifier: Dual Causal Learning Empowers Domain-Incremental Time Series Classification. ACM WWW, 2026 (CCF-A).
 
@@ -24,6 +26,14 @@ I am currently a third-year Ph.D. student at the College of Software, Northeaste
 
 [6] **Zhipeng Liu**, Peibo Duan, Mingyang Geng, and Bin Zhang. A Distillation-based Future-aware Graph Neural Network for Stock Trend Prediction. IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP, 2025 (CCF-B).
 
-[7] Yongsheng Huang, Peibo Duan, **Zhipeng Liu**, Kai Sun, Changsheng Zhang, Bin Zhang, Mingkun Xu. CogniSNN: A First Exploration to Random Graph Architecture based Spiking Neural Networks with Enhanced Expandability and Neuroplasticity. European Conference on Artificial Intelligence. ECAI, 2025 (CCF-B).
+
+[//]: # ()
+[//]: # (### 📄 Non-first-author Publications)
+
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # ([3] Yongsheng Huang, Peibo Duan, **Zhipeng Liu**, Kai Sun, Changsheng Zhang, Bin Zhang, Mingkun Xu. CogniSNN: A First Exploration to Random Graph Architecture based Spiking Neural Networks with Enhanced Expandability and Neuroplasticity. European Conference on Artificial Intelligence. ECAI, 2025 &#40;CCF-B&#41;.)
 
 
