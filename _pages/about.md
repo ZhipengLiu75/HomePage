@@ -14,7 +14,7 @@ I am currently a third-year Ph.D. student at the College of Software, Northeaste
 
 ### 📝 First-author Publications
 
-[1] **Zhipeng Liu**, Peibo Duan, Xuan Tang, Haodong Jing, Mingyang Geng, Yongsheng Huang, Jialu Xu, Bin Zhang and Binwu Wang. We Need a More Robust Classifier: Dual Causal Learning Empowers Domain-Incremental Time Series Classification. ACM WWW, 2026 (CCF-A).
+[1] **Zhipeng Liu**, Peibo Duan, Xuan Tang, Haodong Jing, Mingyang Geng, Yongsheng Huang, Jialu Xu, Bin Zhang and Binwu Wang. We Need a More Robust Classifier: Dual Causal Learning Empowers Domain-Incremental Time Series Classification. Proceedings of The ACM Web Conference, WWW 2026 (CCF-A).
 
 [2] **Zhipeng Liu**, Peibo Duan, Xuan Tang, Baixin Li, Yongsheng Huang, Mingyang Geng, Changsheng Zhang, Bin Zhang and Binwu Wang. TimeFormer: Transformer with Attention Modulation Empowered by Temporal Characteristics for Time Series Forecasting. Expert Systems With Applications, 2026 (IF=7.5 JCR-Q1).
 
