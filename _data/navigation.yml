@@ -1,25 +1,10 @@
-# main links links
+# Only link to sections backed by the author's own content.
 main:
-#  - title: "Publications"
-    url: /publications/
-
-#  - title: "Talks"
-#    url: /talks/    
-
-#  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "CV"
-#    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
-
-#  - title: "中文"
-#    url: /chinese/
+  - title: "About Me"
+    url: /#about-me
+  - title: "News"
+    url: /#-news
+  - title: "Publications"
+    url: /#-publications
+  - title: "Education"
+    url: /#-educations

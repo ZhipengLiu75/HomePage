@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title | escape }} - Homepage</title>
+    <meta name="description" content="{{ site.description | escape }}">
+    <link rel="stylesheet" href="{{ '/assets/css/homepage.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="masthead">
+      <nav class="masthead__inner-wrap" aria-label="Main navigation">
+        <a class="masthead__home" href="{{ '/' | relative_url }}#about-me">Homepage</a>
+        <ul class="masthead__links">
+          {% for link in site.data.navigation.main %}
+          <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </header>
+
+    <div class="homepage" id="main">
+      <aside class="profile" aria-label="Personal information" itemscope itemtype="https://schema.org/Person">
+        <div class="profile__identity">
+          <img class="profile__avatar" src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" alt="{{ site.author.name | escape }}" itemprop="image">
+          <h2 class="profile__name" itemprop="name">{{ site.author.name }}</h2>
+          <h2 class="profile__name" lang="zh-CN">{{ site.author.name_zh }}</h2>
+          <p class="profile__bio">
+            {{ site.author.role }}<br>
+            {{ site.author.department }}<br>
+            {{ site.author.employer }}
+          </p>
+        </div>
+        <ul class="profile__links">
+          <li><span aria-hidden="true">📢</span> Address:<br>{{ site.author.location }}</li>
+          <li><span aria-hidden="true">✉️</span> Email: <a href="mailto:{{ site.author.email }}" itemprop="email">{{ site.author.email }}</a></li>
+          <li><span aria-hidden="true">💬</span> {{ site.author.bio }}</li>
+          <li><span aria-hidden="true">🎓</span> <a href="{{ site.author.googlescholar }}">Google Scholar</a></li>
+        </ul>
+      </aside>
+
+      <main class="page__content" id="main-content" tabindex="-1">
+        {{ content }}
+      </main>
+    </div>
+  </body>
+</html>

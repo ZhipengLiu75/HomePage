@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Zhipeng Liu (刘志鹏)" # "Your name / Site Title"
 title_separator          : "-"
 name                     : &name "Zhipeng Liu (刘志鹏)" # "Your name"
-#description              : &description "personal description"
-#url                      : https://songyang0603.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl                  : "" # the subpath of your site, e.g. "/blog"
-#repository               : "songyang0603/songyang0603.github.io" # "academicpages/academicpages.github.io"
+description              : "Zhipeng Liu (刘志鹏), Ph.D. student at Northeastern University. Research in continual learning, long-tailed recognition, and time series analysis and its applications."
+url                      : "https://zhipengliu75.github.io"
+baseurl                  : "/HomePage"
+repository               : "ZhipengLiu75/HomePage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,6 +23,9 @@ author:
   # Biographic information
   avatar           : "profile2.png"
   name             : "Zhipeng Liu" # "Your Sidebar Name"
+  name_zh          : "刘志鹏"
+  role             : "Ph.D. Student"
+  department       : "College of Software"
   pronouns         : # example: "she/her"  
   bio              : "Wechat: LZP_0705"
   location         : "Shenyang, China"
