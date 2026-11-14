@@ -74,6 +74,11 @@ First- and corresponding-author publications. **\* Corresponding author.**
   </li>
 </ul>
 
+<h1 id="-awards">🏆 Awards</h1>
+
+- **2026:** 潍柴动力命名奖学金
+- **2025:** 宝钢奖学金
+
 <h1 id="-educations">🎓 Education</h1>
 
 - **Ph.D. student**, College of Software, Northeastern University, China.

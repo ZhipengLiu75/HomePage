@@ -6,5 +6,7 @@ main:
     url: /#-news
   - title: "Publications"
     url: /#-publications
+  - title: "Awards"
+    url: /#-awards
   - title: "Education"
     url: /#-educations
