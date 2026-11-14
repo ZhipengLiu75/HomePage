@@ -17,7 +17,7 @@ I am currently a fourth-year Ph.D. student at the College of Software, Northeast
 <h1 id="-news">🎉 News</h1>
 
 - **2026.11:** 获得潍柴动力命名奖学金。
-- **2026.10:** One paper has been accepted by **Expert Systems with Applications**.
+- **2026.10:** One paper has been accepted by **ESWA**.
 - **2026.10:** One paper has been accepted by **NeurIPS 2026**.
 
 <h1 id="-publications">📝 Publications</h1>
