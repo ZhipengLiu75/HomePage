@@ -54,7 +54,7 @@ First- and corresponding-author publications. **\* Corresponding author.**
 <ul class="publications">
   <li>
     <span class="publication-title">Boundary-repelling regularization for robust feature spaces in long-tailed time series classification.</span><br>
-    <strong>Zhipeng Liu</strong>, Peibo Duan*, Qinfangjin Zhao, Baixin Li, Xiaowen Ma, Yongsheng Huang, Bin Zhang, Binwu Wang*.<br>
+    <strong>Zhipeng Liu</strong>, Peibo Duan, Qinfangjin Zhao, Baixin Li, Xiaowen Ma, Yongsheng Huang, Bin Zhang, Binwu Wang.<br>
     In: Expert Systems with Applications, <strong>2027 (SCI-1, IF=9.4)</strong>.
   </li>
   <li>
