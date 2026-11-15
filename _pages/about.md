@@ -43,7 +43,7 @@ First- and corresponding-author publications. **\* Corresponding author.**
     In: ACM International Conference on Multimedia (<strong>ACM MM, 2025, CCF-A</strong>).
   </li>
   <li>
-    <span class="publication-title">A Distillation-based Future-aware Graph Neural Network for Stock Trend Prediction.</span><br>
+    <span class="publication-title">A Distillation-Based Future-Aware Graph Neural Network for Stock Trend Prediction.</span><br>
     <strong>Zhipeng Liu</strong>, Peibo Duan, Mingyang Geng, and Bin Zhang.<br>
     In: IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP, 2025, CCF-B</strong>).
   </li>
@@ -53,7 +53,7 @@ First- and corresponding-author publications. **\* Corresponding author.**
 
 <ul class="publications">
   <li>
-    <span class="publication-title">Boundary-repelling regularization for robust feature spaces in long-tailed time series classification.</span><br>
+    <span class="publication-title">Boundary-Repelling Regularization for Robust Feature Spaces in Long-Tailed Time Series Classification.</span><br>
     <strong>Zhipeng Liu</strong>, Peibo Duan, Qinfangjin Zhao, Baixin Li, Xiaowen Ma, Yongsheng Huang, Bin Zhang, Binwu Wang.<br>
     In: Expert Systems with Applications, <strong>2027 (SCI-1, IF=9.4)</strong>.
   </li>
@@ -63,12 +63,12 @@ First- and corresponding-author publications. **\* Corresponding author.**
     In: Expert Systems with Applications, <strong>2026 (SCI-1, IF=9.4)</strong>.
   </li>
   <li>
-    <span class="publication-title">An Attributed Multiplex Network Enabled GNN-based Stock Predictor with Observable and Non-observable Information.</span><br>
+    <span class="publication-title">An Attributed Multiplex Network Enabled GNN-Based Stock Predictor with Observable and Non-Observable Information.</span><br>
     <strong>Zhipeng Liu</strong>, Peibo Duan, Qi Chu, Levin Kuhlmann, Changsheng Zhang, Wenwei Yue, Xuan Tang and Bin Zhang.<br>
     In: Expert Systems with Applications, <strong>2026 (SCI-1, IF=9.4)</strong>.
   </li>
   <li>
-    <span class="publication-title">A dynamic hypergraph attention network: Capturing market-wide spatiotemporal dependencies for stock selection.</span><br>
+    <span class="publication-title">A Dynamic Hypergraph Attention Network: Capturing Market-Wide Spatiotemporal Dependencies for Stock Selection.</span><br>
     <strong>Zhipeng Liu</strong>, Peibo Duan, Xiaosha Xue, Changsheng Zhang, Wenwei Yue, and Bin Zhang.<br>
     In: Applied Soft Computing, <strong>2025 (SCI-2, IF=7.8)</strong>.
   </li>
