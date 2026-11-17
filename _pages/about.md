@@ -81,7 +81,7 @@ First- and corresponding-author publications. **\* Corresponding author.**
 
 <h1 id="-educations">🎓 Education</h1>
 
-- **Ph.D. student**, College of Software, Northeastern University, China.
+- **Ph.D.**, College of Software, Northeastern University, China.
 
 <!-- Retained from the previous homepage; intentionally not displayed.
 Non-first-author Publications:
