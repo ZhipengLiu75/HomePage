@@ -29,22 +29,22 @@ First- and corresponding-author publications. ✉ Corresponding author; † Equa
 <ul class="publications">
   <li>
     <span class="publication-title">Beyond Linear Decoders: Dynamic Expert-Coupled Optimal Decoding for Time Series Forecasting.</span><br>
-    Binwu Wang, <strong>Zhipeng Liu<sup>✉</sup></strong>, Zhengyang Zhou, Pengkun Wang, Yang Wang.<br>
+    Binwu Wang, <strong class="publication-author-self">Zhipeng Liu<sup>✉</sup></strong>, Zhengyang Zhou, Pengkun Wang, Yang Wang.<br>
     In: Advances in Neural Information Processing Systems (<strong>NeurIPS 2026, CCF-A, Spotlight</strong>).
   </li>
   <li>
     <span class="publication-title">We Need a More Robust Classifier: Dual Causal Learning Empowers Domain-Incremental Time Series Classification.</span><br>
-    <strong>Zhipeng Liu</strong>, Peibo Duan, Xuan Tang, Haodong Jing, Mingyang Geng, Yongsheng Huang, Jialu Xu, Bin Zhang and Binwu Wang.<br>
+    <strong class="publication-author-self">Zhipeng Liu</strong>, Peibo Duan, Xuan Tang, Haodong Jing, Mingyang Geng, Yongsheng Huang, Jialu Xu, Bin Zhang and Binwu Wang.<br>
     In: Proceedings of The ACM Web Conference (<strong>WWW 2026, CCF-A, Oral</strong>).
   </li>
   <li>
     <span class="publication-title">DisMS-TS: Eliminating Redundant Multi-Scale Features for Time Series Classification.</span><br>
-    <strong>Zhipeng Liu</strong>, Peibo Duan, Binwu Wang, Xuan Tang, Qi Chu, Changsheng Zhang, Yongsheng Huang, and Bin Zhang.<br>
+    <strong class="publication-author-self">Zhipeng Liu</strong>, Peibo Duan, Binwu Wang, Xuan Tang, Qi Chu, Changsheng Zhang, Yongsheng Huang, and Bin Zhang.<br>
     In: ACM International Conference on Multimedia (<strong>ACM MM, 2025, CCF-A</strong>).
   </li>
   <li>
     <span class="publication-title">A Distillation-Based Future-Aware Graph Neural Network for Stock Trend Prediction.</span><br>
-    <strong>Zhipeng Liu</strong>, Peibo Duan, Mingyang Geng, and Bin Zhang.<br>
+    <strong class="publication-author-self">Zhipeng Liu</strong>, Peibo Duan, Mingyang Geng, and Bin Zhang.<br>
     In: IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP, 2025, CCF-B</strong>).
   </li>
 </ul>
@@ -54,22 +54,22 @@ First- and corresponding-author publications. ✉ Corresponding author; † Equa
 <ul class="publications">
   <li>
     <span class="publication-title">Boundary-Repelling Regularization for Robust Feature Spaces in Long-Tailed Time Series Classification.</span><br>
-    <strong>Zhipeng Liu</strong>, Peibo Duan, Qinfangjin Zhao, Baixin Li, Xiaowen Ma, Yongsheng Huang, Bin Zhang, Binwu Wang.<br>
+    <strong class="publication-author-self">Zhipeng Liu</strong>, Peibo Duan, Qinfangjin Zhao, Baixin Li, Xiaowen Ma, Yongsheng Huang, Bin Zhang, Binwu Wang.<br>
     In: Expert Systems with Applications, <strong>2027 (SCI-1, IF=9.4)</strong>.
   </li>
   <li>
     <span class="publication-title">TimeFormer: Transformer with Attention Modulation Empowered by Temporal Characteristics for Time Series Forecasting.</span><br>
-    <strong>Zhipeng Liu</strong>, Peibo Duan, Xuan Tang, Baixin Li, Yongsheng Huang, Mingyang Geng, Changsheng Zhang, Bin Zhang and Binwu Wang.<br>
+    <strong class="publication-author-self">Zhipeng Liu</strong>, Peibo Duan, Xuan Tang, Baixin Li, Yongsheng Huang, Mingyang Geng, Changsheng Zhang, Bin Zhang and Binwu Wang.<br>
     In: Expert Systems with Applications, <strong>2026 (SCI-1, IF=9.4)</strong>.
   </li>
   <li>
     <span class="publication-title">An Attributed Multiplex Network Enabled GNN-Based Stock Predictor with Observable and Non-Observable Information.</span><br>
-    <strong>Zhipeng Liu</strong>, Peibo Duan, Qi Chu, Levin Kuhlmann, Changsheng Zhang, Wenwei Yue, Xuan Tang and Bin Zhang.<br>
+    <strong class="publication-author-self">Zhipeng Liu</strong>, Peibo Duan, Qi Chu, Levin Kuhlmann, Changsheng Zhang, Wenwei Yue, Xuan Tang and Bin Zhang.<br>
     In: Expert Systems with Applications, <strong>2026 (SCI-1, IF=9.4)</strong>.
   </li>
   <li>
     <span class="publication-title">A Dynamic Hypergraph Attention Network: Capturing Market-Wide Spatiotemporal Dependencies for Stock Selection.</span><br>
-    <strong>Zhipeng Liu</strong>, Peibo Duan, Xiaosha Xue, Changsheng Zhang, Wenwei Yue, and Bin Zhang.<br>
+    <strong class="publication-author-self">Zhipeng Liu</strong>, Peibo Duan, Xiaosha Xue, Changsheng Zhang, Wenwei Yue, and Bin Zhang.<br>
     In: Applied Soft Computing, <strong>2025 (SCI-2, IF=7.8)</strong>.
   </li>
 </ul>
