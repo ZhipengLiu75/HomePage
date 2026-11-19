@@ -22,14 +22,14 @@ I am currently a fourth-year Ph.D. student at the College of Software, Northeast
 
 <h1 id="-publications">📝 Publications</h1>
 
-First- and corresponding-author publications. **\* Corresponding author.**
+First- and corresponding-author publications. **✉ Corresponding author; † Equal contribution.**
 
 ## Conference Papers
 
 <ul class="publications">
   <li>
     <span class="publication-title">Beyond Linear Decoders: Dynamic Expert-Coupled Optimal Decoding for Time Series Forecasting.</span><br>
-    Binwu Wang, <strong>Zhipeng Liu*</strong>, Zhengyang Zhou, Pengkun Wang, Yang Wang.<br>
+    Binwu Wang, <strong>Zhipeng Liu<sup>✉</sup></strong>, Zhengyang Zhou, Pengkun Wang, Yang Wang.<br>
     In: Advances in Neural Information Processing Systems (<strong>NeurIPS 2026, CCF-A, Spotlight</strong>).
   </li>
   <li>
