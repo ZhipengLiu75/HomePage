@@ -22,7 +22,7 @@ I am currently a fourth-year Ph.D. student at the College of Software, Northeast
 
 <h1 id="-publications">📝 Publications</h1>
 
-First- and corresponding-author publications. **✉ Corresponding author; † Equal contribution.**
+First- and corresponding-author publications. ✉ Corresponding author; † Equal contribution.
 
 ## Conference Papers
 
