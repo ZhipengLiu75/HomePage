@@ -47,7 +47,7 @@ a:focus-visible { outline: 2px solid #224b8d; outline-offset: 4px; }
 .page__content ul { margin: .5rem 0 1rem; padding-left: 2rem; }
 .page__content li { margin-bottom: .5rem; }
 .publication-title { color: #224b8d; }
-.publications .publication-author-self { color: #000000; }
+.publications .publication-author-self { color: #383c40; }
 .publications li { margin-bottom: .5rem; }
 @media (min-width: 925px) {
   .homepage { display: grid; grid-template-columns: 15.2542372881% 78.8135593221%; column-gap: 5.9322033898%; align-items: start; }
