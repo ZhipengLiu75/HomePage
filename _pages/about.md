@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a fourth-year Ph.D. student at the College of Software, Northeastern University, China.
 
-💡 My research interests include **continual learning**, **long-tailed recognition**, and **time series analysis and its applications**.
+💡 My research interests include **continual learning**, **long-tailed recognition**, and **time series analysis**, with applications in **quantitative finance**, **EEG signal processing**, and **spatiotemporal data mining**.
 
 <h1 id="-news">🎉 News</h1>
 
